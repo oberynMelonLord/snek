@@ -24,3 +24,4 @@ head = sprites.create(img("""
     . . . . . . . . . . . . . . . .
     . . . . . . . . . . . . . . . .
 """), SpriteKind.player)
+controller.move_sprite(head)
